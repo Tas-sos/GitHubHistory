@@ -2,6 +2,7 @@
 
 # Modified from GitLab
 
+## Modified with merge request!
 
 This repository contains a collection of Ansible roles and playbooks that aim at easing the deployment procedure of ARGO products. The goal for these roles and playbooks has been to be as generic as possible so that they are easily adaptable to different environments and e-Infrastructure requirements. Hence most of the variables used by default in these roles reside under the `roles/{role_name}/defaults/main.yml` files. 
 
